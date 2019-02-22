@@ -1,0 +1,19 @@
+{
+  "main.css": "/shop/static/css/main.7fd2788f.chunk.css",
+  "main.js": "/shop/static/js/main.863068c2.chunk.js",
+  "main.js.map": "/shop/static/js/main.863068c2.chunk.js.map",
+  "runtime~main.js": "/shop/static/js/runtime~main.46399012.js",
+  "runtime~main.js.map": "/shop/static/js/runtime~main.46399012.js.map",
+  "static/js/2.db33efd7.chunk.js": "/shop/static/js/2.db33efd7.chunk.js",
+  "static/js/2.db33efd7.chunk.js.map": "/shop/static/js/2.db33efd7.chunk.js.map",
+  "index.html": "/shop/index.html",
+  "precache-manifest.e2aff7dd5af9defd24d08086834a7948.js": "/shop/precache-manifest.e2aff7dd5af9defd24d08086834a7948.js",
+  "service-worker.js": "/shop/service-worker.js",
+  "static/css/main.7fd2788f.chunk.css.map": "/shop/static/css/main.7fd2788f.chunk.css.map",
+  "static/media/Cart.css": "/shop/static/media/cart.a0b10344.svg",
+  "static/media/iphone.png": "/shop/static/media/iphone.2ed164f6.png",
+  "static/media/Product.css": "/shop/static/media/plus.9a8e9bec.svg",
+  "static/media/Home.css": "/shop/static/media/page.89a3b901.jpg",
+  "static/media/Order.css": "/shop/static/media/removeRed.31f7cdde.svg",
+  "static/media/OrderPage.css": "/shop/static/media/success.ad22c368.jpeg"
+}
